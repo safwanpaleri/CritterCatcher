@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb34c50a9ac808240bd5789aed884701, type: 3}
+  m_Name: FastEffect
+  m_EditorClassIdentifier: 
+  visualEffect: {fileID: 0}
+  darkestColor: {r: 0.34941247, g: 0.46978483, b: 0.9496855, a: 0}
+  brightestColor: {r: 0.26729542, g: 0.789216, b: 1, a: 0}
+  effectable:
+    serializedVersion: 2
+    m_Bits: 512
+  effect: 1
